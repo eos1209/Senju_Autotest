@@ -1,1 +1,1 @@
-# Senju_Autotest
+automation_test_project
